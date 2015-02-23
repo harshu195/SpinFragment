@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SpinFragment</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="color_array">
+        <item>BLUE</item>
+        <item>RED</item>
+        <item>GREEN</item>
+        <item>YELLOW</item>
+    </string-array>
+</resources>
